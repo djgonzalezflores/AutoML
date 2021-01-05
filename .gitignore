@@ -1,2 +1,4 @@
 /.ipynb_checkpoints
 /catboost_info
+/data/mnist_test.csv
+/data/mnist_train.csv
